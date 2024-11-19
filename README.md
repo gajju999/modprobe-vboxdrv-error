@@ -1,8 +1,8 @@
 Update repo
 
-  apt update
+    apt update
 
 upgrade repo
 
-  apt upgrade
+    apt upgrade
 
