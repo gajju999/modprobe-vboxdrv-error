@@ -1,11 +1,1 @@
-# sudo apt update
 
-# sudo apt upgrade
-
-# sudo apt --reinstall virtualbox-dkms
-
-# sudo apt install libelf-dev
-
-# sudo modprobe vboxdrv
-
-then restart your virtualbox 
